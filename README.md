@@ -2,6 +2,12 @@
 
 A minimal fork of the [ys](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) oh-my-zsh theme with the clock removed and a cleaner dirty indicator (`x` instead of a symbol).
 
+## Screenshots
+
+![Overview](screenshots/overview.png)
+
+![Comparison with ys](screenshots/compare.png)
+
 ## Prerequisites
 
 - [oh-my-zsh](https://ohmyz.sh/) must be installed (`~/.oh-my-zsh/` exists)
